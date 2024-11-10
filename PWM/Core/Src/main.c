@@ -98,6 +98,50 @@ HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_3);
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+
+	  for(int i =0; i<49999 ; i+=50)
+	  {
+
+		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1,i );
+		  HAL_Delay(1);
+
+	  }
+	  for(int i =49999; i>=0 ; i-=50)
+	  	  {
+
+	  		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1,i );
+	  		HAL_Delay(1);
+
+	  	  }
+	  for(int i =0; i<49999 ; i+=50)
+	  	  {
+
+	  		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_2,i );
+	  		HAL_Delay(1);
+
+	  	  }
+	  	  for(int i =49999; i>=0 ; i-=50)
+	  	  	  {
+
+	  	  		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_2,i );
+	  	  		HAL_Delay(1);
+
+	  	  	  }
+	  	for(int i =0; i<49999 ; i+=50)
+	  		  {
+
+	  			  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_3,i );
+	  			HAL_Delay(1);
+
+	  		  }
+	  		  for(int i =49999; i>=0 ; i-=50)
+	  		  	  {
+
+	  		  		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_3,i );
+	  		  		HAL_Delay(1);
+
+	  		  	  }
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
