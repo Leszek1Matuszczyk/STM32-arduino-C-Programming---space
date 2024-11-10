@@ -93,8 +93,10 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  HAL_GPIO_TogglePin(RGB_BLUE_GPIO_Port, RGB_BLUE_Pin);
-	  HAL_Delay(1000);
+	  HAL_GPIO_WritePin(RGB_BLUE_GPIO_Port, RGB_BLUE_Pin, 1);
+	  HAL_Delay(500);
+	  HAL_GPIO_WritePin(RGB_BLUE_GPIO_Port, RGB_BLUE_Pin, 0);
+	  HAL_Delay(500);
 
     /* USER CODE END WHILE */
 
