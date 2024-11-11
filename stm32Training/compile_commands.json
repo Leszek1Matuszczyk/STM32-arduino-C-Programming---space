@@ -7,6 +7,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

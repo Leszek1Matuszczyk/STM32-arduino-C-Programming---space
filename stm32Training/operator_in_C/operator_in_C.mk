@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=casting_types
+ProjectName            :=operator_in_C
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/Admin/Desktop/stm32Training/stm32Training
-ProjectPath            :=C:/Users/Admin/Desktop/stm32Training/stm32Training/casting_types
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/casting_types
+ProjectPath            :=C:/Users/Admin/Desktop/stm32Training/stm32Training/operator_in_C
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/operator_in_C
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.c$(ObjectSuffix): main.c $(IntermediateDirectory)/main.c$(DependSuffix)
-	$(CC) $(SourceSwitch) "C:/Users/Admin/Desktop/stm32Training/stm32Training/casting_types/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
+	$(CC) $(SourceSwitch) "C:/Users/Admin/Desktop/stm32Training/stm32Training/operator_in_C/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.c$(DependSuffix): main.c
 	@$(CC) $(CFLAGS) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.c$(ObjectSuffix) -MF$(IntermediateDirectory)/main.c$(DependSuffix) -MM main.c
 

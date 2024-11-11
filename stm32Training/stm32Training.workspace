@@ -9,7 +9,8 @@
   <Project Name="Tabular" Path="Tabular/Tabular.project" Active="No"/>
   <Project Name="using_data_formats_using_scanf" Path="using_data_formats_using_scanf/using_data_formats_using_scanf.project" Active="No"/>
   <Project Name="using_operators_scnaf_printf" Path="using_operators_scnaf_printf/using_operators_scnaf_printf.project" Active="No"/>
-  <Project Name="casting_types" Path="casting_types/casting_types.project" Active="Yes"/>
+  <Project Name="casting_types" Path="casting_types/casting_types.project" Active="No"/>
+  <Project Name="operator_in_C" Path="operator_in_C/operator_in_C.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +24,7 @@
       <Project Name="using_data_formats_using_scanf" ConfigName="Debug"/>
       <Project Name="using_operators_scnaf_printf" ConfigName="Debug"/>
       <Project Name="casting_types" ConfigName="Debug"/>
+      <Project Name="operator_in_C" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -36,6 +38,7 @@
       <Project Name="using_data_formats_using_scanf" ConfigName="Release"/>
       <Project Name="using_operators_scnaf_printf" ConfigName="Release"/>
       <Project Name="casting_types" ConfigName="Release"/>
+      <Project Name="operator_in_C" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
