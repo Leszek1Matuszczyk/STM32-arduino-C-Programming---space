@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="stm32Training" Database="" Version="10000">
   <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
   <Project Name="creating_some_output" Path="creating_some_output/creating_some_output.project" Active="No"/>
-  <Project Name="greeting" Path="greeting/greeting.project" Active="Yes"/>
+  <Project Name="greeting" Path="greeting/greeting.project" Active="No"/>
+  <Project Name="working_with_variables" Path="working_with_variables/working_with_variables.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="HelloWorld" ConfigName="Debug"/>
       <Project Name="creating_some_output" ConfigName="Debug"/>
       <Project Name="greeting" ConfigName="Debug"/>
+      <Project Name="working_with_variables" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="HelloWorld" ConfigName="Release"/>
       <Project Name="creating_some_output" ConfigName="Release"/>
       <Project Name="greeting" ConfigName="Release"/>
+      <Project Name="working_with_variables" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
