@@ -7,7 +7,8 @@
   <Project Name="stdio_Traning_printf" Path="stdio_Traning_printf/stdio_Traning_printf.project" Active="No"/>
   <Project Name="using_dataFormats_using_printf" Path="using_dataFormats_using_printf/using_dataFormats_using_printf.project" Active="No"/>
   <Project Name="Tabular" Path="Tabular/Tabular.project" Active="No"/>
-  <Project Name="using_data_formats_using_scanf" Path="using_data_formats_using_scanf/using_data_formats_using_scanf.project" Active="Yes"/>
+  <Project Name="using_data_formats_using_scanf" Path="using_data_formats_using_scanf/using_data_formats_using_scanf.project" Active="No"/>
+  <Project Name="using_operators_scnaf_printf" Path="using_operators_scnaf_printf/using_operators_scnaf_printf.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -19,6 +20,7 @@
       <Project Name="using_dataFormats_using_printf" ConfigName="Debug"/>
       <Project Name="Tabular" ConfigName="Debug"/>
       <Project Name="using_data_formats_using_scanf" ConfigName="Debug"/>
+      <Project Name="using_operators_scnaf_printf" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -30,6 +32,7 @@
       <Project Name="using_dataFormats_using_printf" ConfigName="Release"/>
       <Project Name="Tabular" ConfigName="Release"/>
       <Project Name="using_data_formats_using_scanf" ConfigName="Release"/>
+      <Project Name="using_operators_scnaf_printf" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

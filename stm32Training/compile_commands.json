@@ -19,6 +19,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

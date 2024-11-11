@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ using_data_formats_using_scanf - Debug ]----------"
-	@cd "using_data_formats_using_scanf" && "$(MAKE)" -f  "using_data_formats_using_scanf.mk"
+	@echo "----------Building project:[ using_operators_scnaf_printf - Debug ]----------"
+	@cd "using_operators_scnaf_printf" && "$(MAKE)" -f  "using_operators_scnaf_printf.mk"
 clean:
-	@echo "----------Cleaning project:[ using_data_formats_using_scanf - Debug ]----------"
-	@cd "using_data_formats_using_scanf" && "$(MAKE)" -f  "using_data_formats_using_scanf.mk" clean
+	@echo "----------Cleaning project:[ using_operators_scnaf_printf - Debug ]----------"
+	@cd "using_operators_scnaf_printf" && "$(MAKE)" -f  "using_operators_scnaf_printf.mk" clean
