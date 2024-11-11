@@ -3,7 +3,8 @@
   <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
   <Project Name="creating_some_output" Path="creating_some_output/creating_some_output.project" Active="No"/>
   <Project Name="greeting" Path="greeting/greeting.project" Active="No"/>
-  <Project Name="working_with_variables" Path="working_with_variables/working_with_variables.project" Active="Yes"/>
+  <Project Name="working_with_variables" Path="working_with_variables/working_with_variables.project" Active="No"/>
+  <Project Name="stdio_Traning_printf" Path="stdio_Traning_printf/stdio_Traning_printf.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="creating_some_output" ConfigName="Debug"/>
       <Project Name="greeting" ConfigName="Debug"/>
       <Project Name="working_with_variables" ConfigName="Debug"/>
+      <Project Name="stdio_Traning_printf" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="creating_some_output" ConfigName="Release"/>
       <Project Name="greeting" ConfigName="Release"/>
       <Project Name="working_with_variables" ConfigName="Release"/>
+      <Project Name="stdio_Traning_printf" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
