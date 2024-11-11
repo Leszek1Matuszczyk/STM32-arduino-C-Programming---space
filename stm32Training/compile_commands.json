@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
@@ -7,6 +11,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_dataFormats_using_printf\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_dataFormats_using_printf",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_dataFormats_using_printf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_dataFormats_using_printf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
@@ -14,8 +22,4 @@
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\creating_some_output\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\creating_some_output",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\creating_some_output\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\creating_some_output\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
- }, {
-  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c",
-  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld",
-  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\HelloWorld\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }]
