@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ threeArgumentOperator - Debug ]----------"
-	@cd "threeArgumentOperator" && "$(MAKE)" -f  "threeArgumentOperator.mk"
+	@echo "----------Building project:[ for_loop - Debug ]----------"
+	@cd "for_loop" && "$(MAKE)" -f  "for_loop.mk"
 clean:
-	@echo "----------Cleaning project:[ threeArgumentOperator - Debug ]----------"
-	@cd "threeArgumentOperator" && "$(MAKE)" -f  "threeArgumentOperator.mk" clean
+	@echo "----------Cleaning project:[ for_loop - Debug ]----------"
+	@cd "for_loop" && "$(MAKE)" -f  "for_loop.mk" clean

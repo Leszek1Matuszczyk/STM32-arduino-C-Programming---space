@@ -14,7 +14,8 @@
   <Project Name="flow_control" Path="flow_control/flow_control.project" Active="No"/>
   <Project Name="flow_control_continue" Path="flow_control_continue/flow_control_continue.project" Active="No"/>
   <Project Name="switch_instruction" Path="switch_instruction/switch_instruction.project" Active="No"/>
-  <Project Name="threeArgumentOperator" Path="threeArgumentOperator/threeArgumentOperator.project" Active="Yes"/>
+  <Project Name="threeArgumentOperator" Path="threeArgumentOperator/threeArgumentOperator.project" Active="No"/>
+  <Project Name="for_loop" Path="for_loop/for_loop.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -33,6 +34,7 @@
       <Project Name="flow_control_continue" ConfigName="Debug"/>
       <Project Name="switch_instruction" ConfigName="Debug"/>
       <Project Name="threeArgumentOperator" ConfigName="Debug"/>
+      <Project Name="for_loop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -51,6 +53,7 @@
       <Project Name="flow_control_continue" ConfigName="Release"/>
       <Project Name="switch_instruction" ConfigName="Release"/>
       <Project Name="threeArgumentOperator" ConfigName="Release"/>
+      <Project Name="for_loop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
