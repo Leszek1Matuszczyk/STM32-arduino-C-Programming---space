@@ -17,7 +17,8 @@
   <Project Name="threeArgumentOperator" Path="threeArgumentOperator/threeArgumentOperator.project" Active="No"/>
   <Project Name="for_loop" Path="for_loop/for_loop.project" Active="No"/>
   <Project Name="for_loop_continuation" Path="for_loop_continuation/for_loop_continuation.project" Active="No"/>
-  <Project Name="while_loop" Path="while_loop/while_loop.project" Active="Yes"/>
+  <Project Name="while_loop" Path="while_loop/while_loop.project" Active="No"/>
+  <Project Name="do_While_Loop" Path="do_While_Loop/do_While_Loop.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -39,6 +40,7 @@
       <Project Name="for_loop" ConfigName="Debug"/>
       <Project Name="for_loop_continuation" ConfigName="Debug"/>
       <Project Name="while_loop" ConfigName="Debug"/>
+      <Project Name="do_While_Loop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -60,6 +62,7 @@
       <Project Name="for_loop" ConfigName="Release"/>
       <Project Name="for_loop_continuation" ConfigName="Release"/>
       <Project Name="while_loop" ConfigName="Release"/>
+      <Project Name="do_While_Loop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

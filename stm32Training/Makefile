@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ while_loop - Debug ]----------"
-	@cd "while_loop" && "$(MAKE)" -f  "while_loop.mk"
+	@echo "----------Building project:[ do_While_Loop - Debug ]----------"
+	@cd "do_While_Loop" && "$(MAKE)" -f  "do_While_Loop.mk"
 clean:
-	@echo "----------Cleaning project:[ while_loop - Debug ]----------"
-	@cd "while_loop" && "$(MAKE)" -f  "while_loop.mk" clean
+	@echo "----------Cleaning project:[ do_While_Loop - Debug ]----------"
+	@cd "do_While_Loop" && "$(MAKE)" -f  "do_While_Loop.mk" clean

@@ -39,6 +39,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\working_with_variables\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\do_While_Loop\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\do_While_Loop",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\do_While_Loop\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\do_While_Loop\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_data_formats_using_scanf\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_data_formats_using_scanf",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_data_formats_using_scanf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_data_formats_using_scanf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
