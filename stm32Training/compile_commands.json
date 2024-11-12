@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\while_loop\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\while_loop",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\while_loop\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\while_loop\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\for_loop\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\for_loop",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\for_loop\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\for_loop\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
