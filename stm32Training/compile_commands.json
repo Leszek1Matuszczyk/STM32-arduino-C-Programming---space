@@ -7,6 +7,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\operator_in_C\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
@@ -26,6 +30,10 @@
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\using_operators_scnaf_printf",

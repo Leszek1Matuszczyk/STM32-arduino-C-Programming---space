@@ -10,7 +10,9 @@
   <Project Name="using_data_formats_using_scanf" Path="using_data_formats_using_scanf/using_data_formats_using_scanf.project" Active="No"/>
   <Project Name="using_operators_scnaf_printf" Path="using_operators_scnaf_printf/using_operators_scnaf_printf.project" Active="No"/>
   <Project Name="casting_types" Path="casting_types/casting_types.project" Active="No"/>
-  <Project Name="operator_in_C" Path="operator_in_C/operator_in_C.project" Active="Yes"/>
+  <Project Name="operator_in_C" Path="operator_in_C/operator_in_C.project" Active="No"/>
+  <Project Name="flow_control" Path="flow_control/flow_control.project" Active="No"/>
+  <Project Name="flow_control_continue" Path="flow_control_continue/flow_control_continue.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +27,8 @@
       <Project Name="using_operators_scnaf_printf" ConfigName="Debug"/>
       <Project Name="casting_types" ConfigName="Debug"/>
       <Project Name="operator_in_C" ConfigName="Debug"/>
+      <Project Name="flow_control" ConfigName="Debug"/>
+      <Project Name="flow_control_continue" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +43,8 @@
       <Project Name="using_operators_scnaf_printf" ConfigName="Release"/>
       <Project Name="casting_types" ConfigName="Release"/>
       <Project Name="operator_in_C" ConfigName="Release"/>
+      <Project Name="flow_control" ConfigName="Release"/>
+      <Project Name="flow_control_continue" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
