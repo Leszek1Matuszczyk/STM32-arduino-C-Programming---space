@@ -20,7 +20,8 @@
   <Project Name="while_loop" Path="while_loop/while_loop.project" Active="No"/>
   <Project Name="do_While_Loop" Path="do_While_Loop/do_While_Loop.project" Active="No"/>
   <Project Name="nested_arrays" Path="nested_arrays/nested_arrays.project" Active="No"/>
-  <Project Name="c3e1" Path="c3e1/c3e1.project" Active="Yes"/>
+  <Project Name="c3e1" Path="c3e1/c3e1.project" Active="No"/>
+  <Project Name="c3e2" Path="c3e2/c3e2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -45,6 +46,7 @@
       <Project Name="do_While_Loop" ConfigName="Debug"/>
       <Project Name="nested_arrays" ConfigName="Debug"/>
       <Project Name="c3e1" ConfigName="Debug"/>
+      <Project Name="c3e2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -69,6 +71,7 @@
       <Project Name="do_While_Loop" ConfigName="Release"/>
       <Project Name="nested_arrays" ConfigName="Release"/>
       <Project Name="c3e1" ConfigName="Release"/>
+      <Project Name="c3e2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
