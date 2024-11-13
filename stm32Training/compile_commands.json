@@ -55,6 +55,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\greeting\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\nested_arrays\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\nested_arrays",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\nested_arrays\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\nested_arrays\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\flow_control_continue\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
