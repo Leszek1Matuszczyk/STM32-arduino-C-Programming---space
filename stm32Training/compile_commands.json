@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\some_more_fun_with_arrays\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\some_more_fun_with_arrays",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\some_more_fun_with_arrays\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\some_more_fun_with_arrays\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Strings_arrays_and_other_stuff\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Strings_arrays_and_other_stuff",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Strings_arrays_and_other_stuff\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Strings_arrays_and_other_stuff\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

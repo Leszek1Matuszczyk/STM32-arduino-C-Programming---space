@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Strings_arrays_and_other_stuff - Debug ]----------"
-	@cd "Strings_arrays_and_other_stuff" && "$(MAKE)" -f  "Strings_arrays_and_other_stuff.mk"
+	@echo "----------Building project:[ some_more_fun_with_arrays - Debug ]----------"
+	@cd "some_more_fun_with_arrays" && "$(MAKE)" -f  "some_more_fun_with_arrays.mk"
 clean:
-	@echo "----------Cleaning project:[ Strings_arrays_and_other_stuff - Debug ]----------"
-	@cd "Strings_arrays_and_other_stuff" && "$(MAKE)" -f  "Strings_arrays_and_other_stuff.mk" clean
+	@echo "----------Cleaning project:[ some_more_fun_with_arrays - Debug ]----------"
+	@cd "some_more_fun_with_arrays" && "$(MAKE)" -f  "some_more_fun_with_arrays.mk" clean
