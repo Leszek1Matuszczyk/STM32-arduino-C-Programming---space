@@ -59,6 +59,10 @@
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Tabular\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Array-average_value_and_more_fun_with_size_of\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Array-average_value_and_more_fun_with_size_of",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Array-average_value_and_more_fun_with_size_of\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\Array-average_value_and_more_fun_with_size_of\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\stdio_Traning_printf\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

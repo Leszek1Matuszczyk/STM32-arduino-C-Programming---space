@@ -25,7 +25,8 @@
   <Project Name="c3e3" Path="c3e3/c3e3.project" Active="No"/>
   <Project Name="c3e4" Path="c3e4/c3e4.project" Active="No"/>
   <Project Name="Strings_arrays_and_other_stuff" Path="Strings_arrays_and_other_stuff/Strings_arrays_and_other_stuff.project" Active="No"/>
-  <Project Name="some_more_fun_with_arrays" Path="some_more_fun_with_arrays/some_more_fun_with_arrays.project" Active="Yes"/>
+  <Project Name="some_more_fun_with_arrays" Path="some_more_fun_with_arrays/some_more_fun_with_arrays.project" Active="No"/>
+  <Project Name="Array-average_value_and_more_fun_with_size_of" Path="Array-average_value_and_more_fun_with_size_of/Array-average_value_and_more_fun_with_size_of.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -55,6 +56,7 @@
       <Project Name="c3e4" ConfigName="Debug"/>
       <Project Name="Strings_arrays_and_other_stuff" ConfigName="Debug"/>
       <Project Name="some_more_fun_with_arrays" ConfigName="Debug"/>
+      <Project Name="Array-average_value_and_more_fun_with_size_of" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -84,6 +86,7 @@
       <Project Name="c3e4" ConfigName="Release"/>
       <Project Name="Strings_arrays_and_other_stuff" ConfigName="Release"/>
       <Project Name="some_more_fun_with_arrays" ConfigName="Release"/>
+      <Project Name="Array-average_value_and_more_fun_with_size_of" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
