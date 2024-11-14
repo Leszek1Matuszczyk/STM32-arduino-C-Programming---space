@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_with_string_continue\\main.c",
+  "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_with_string_continue",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_with_string_continue\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_with_string_continue\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_fun\\main.c",
   "directory": "C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_fun",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_fun\\main.c -o C:\\Users\\Admin\\Desktop\\stm32Training\\stm32Training\\function_fun\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
