@@ -5,7 +5,6 @@
   <Project Name="greeting" Path="greeting/greeting.project" Active="No"/>
   <Project Name="working_with_variables" Path="working_with_variables/working_with_variables.project" Active="No"/>
   <Project Name="stdio_Traning_printf" Path="stdio_Traning_printf/stdio_Traning_printf.project" Active="No"/>
-  <Project Name="using_dataFormats_using_printf" Path="using_dataFormats_using_printf/using_dataFormats_using_printf.project" Active="No"/>
   <Project Name="Tabular" Path="Tabular/Tabular.project" Active="No"/>
   <Project Name="using_data_formats_using_scanf" Path="using_data_formats_using_scanf/using_data_formats_using_scanf.project" Active="No"/>
   <Project Name="using_operators_scnaf_printf" Path="using_operators_scnaf_printf/using_operators_scnaf_printf.project" Active="No"/>
@@ -27,7 +26,8 @@
   <Project Name="Strings_arrays_and_other_stuff" Path="Strings_arrays_and_other_stuff/Strings_arrays_and_other_stuff.project" Active="No"/>
   <Project Name="some_more_fun_with_arrays" Path="some_more_fun_with_arrays/some_more_fun_with_arrays.project" Active="No"/>
   <Project Name="Array-average_value_and_more_fun_with_size_of" Path="Array-average_value_and_more_fun_with_size_of/Array-average_value_and_more_fun_with_size_of.project" Active="No"/>
-  <Project Name="wow_fun_with_finding_comma" Path="wow_fun_with_finding_comma/wow_fun_with_finding_comma.project" Active="Yes"/>
+  <Project Name="wow_fun_with_finding_comma" Path="wow_fun_with_finding_comma/wow_fun_with_finding_comma.project" Active="No"/>
+  <Project Name="multiDimensionalArrays" Path="multiDimensionalArrays/multiDimensionalArrays.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -59,6 +59,7 @@
       <Project Name="some_more_fun_with_arrays" ConfigName="Debug"/>
       <Project Name="Array-average_value_and_more_fun_with_size_of" ConfigName="Debug"/>
       <Project Name="wow_fun_with_finding_comma" ConfigName="Debug"/>
+      <Project Name="multiDimensionalArrays" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -90,6 +91,7 @@
       <Project Name="some_more_fun_with_arrays" ConfigName="Release"/>
       <Project Name="Array-average_value_and_more_fun_with_size_of" ConfigName="Release"/>
       <Project Name="wow_fun_with_finding_comma" ConfigName="Release"/>
+      <Project Name="multiDimensionalArrays" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
