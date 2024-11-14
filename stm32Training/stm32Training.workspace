@@ -31,7 +31,8 @@
   <Project Name="dec_oct_hex" Path="dec_oct_hex/dec_oct_hex.project" Active="No"/>
   <Project Name="converter" Path="converter/converter.project" Active="No"/>
   <Project Name="bit_operators" Path="bit_operators/bit_operators.project" Active="No"/>
-  <Project Name="function_fun" Path="function_fun/function_fun.project" Active="Yes"/>
+  <Project Name="function_fun" Path="function_fun/function_fun.project" Active="No"/>
+  <Project Name="function_string" Path="function_string/function_string.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -68,6 +69,7 @@
       <Project Name="converter" ConfigName="Debug"/>
       <Project Name="bit_operators" ConfigName="Debug"/>
       <Project Name="function_fun" ConfigName="Debug"/>
+      <Project Name="function_string" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -104,6 +106,7 @@
       <Project Name="converter" ConfigName="Release"/>
       <Project Name="bit_operators" ConfigName="Release"/>
       <Project Name="function_fun" ConfigName="Release"/>
+      <Project Name="function_string" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
