@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ converter - Debug ]----------"
-	@cd "converter" && "$(MAKE)" -f  "converter.mk"
+	@echo "----------Building project:[ bit_operators - Debug ]----------"
+	@cd "bit_operators" && "$(MAKE)" -f  "bit_operators.mk"
 clean:
-	@echo "----------Cleaning project:[ converter - Debug ]----------"
-	@cd "converter" && "$(MAKE)" -f  "converter.mk" clean
+	@echo "----------Cleaning project:[ bit_operators - Debug ]----------"
+	@cd "bit_operators" && "$(MAKE)" -f  "bit_operators.mk" clean
