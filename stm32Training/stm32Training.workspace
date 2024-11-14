@@ -28,7 +28,8 @@
   <Project Name="Array-average_value_and_more_fun_with_size_of" Path="Array-average_value_and_more_fun_with_size_of/Array-average_value_and_more_fun_with_size_of.project" Active="No"/>
   <Project Name="wow_fun_with_finding_comma" Path="wow_fun_with_finding_comma/wow_fun_with_finding_comma.project" Active="No"/>
   <Project Name="multiDimensionalArrays" Path="multiDimensionalArrays/multiDimensionalArrays.project" Active="No"/>
-  <Project Name="dec_oct_hex" Path="dec_oct_hex/dec_oct_hex.project" Active="Yes"/>
+  <Project Name="dec_oct_hex" Path="dec_oct_hex/dec_oct_hex.project" Active="No"/>
+  <Project Name="converter" Path="converter/converter.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -62,6 +63,7 @@
       <Project Name="wow_fun_with_finding_comma" ConfigName="Debug"/>
       <Project Name="multiDimensionalArrays" ConfigName="Debug"/>
       <Project Name="dec_oct_hex" ConfigName="Debug"/>
+      <Project Name="converter" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -95,6 +97,7 @@
       <Project Name="wow_fun_with_finding_comma" ConfigName="Release"/>
       <Project Name="multiDimensionalArrays" ConfigName="Release"/>
       <Project Name="dec_oct_hex" ConfigName="Release"/>
+      <Project Name="converter" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
