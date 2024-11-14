@@ -33,7 +33,8 @@
   <Project Name="bit_operators" Path="bit_operators/bit_operators.project" Active="No"/>
   <Project Name="function_fun" Path="function_fun/function_fun.project" Active="No"/>
   <Project Name="function_string" Path="function_string/function_string.project" Active="No"/>
-  <Project Name="function_with_string_continue" Path="function_with_string_continue/function_with_string_continue.project" Active="Yes"/>
+  <Project Name="function_with_string_continue" Path="function_with_string_continue/function_with_string_continue.project" Active="No"/>
+  <Project Name="quiting_functions" Path="quiting_functions/quiting_functions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -72,6 +73,7 @@
       <Project Name="function_fun" ConfigName="Debug"/>
       <Project Name="function_string" ConfigName="Debug"/>
       <Project Name="function_with_string_continue" ConfigName="Debug"/>
+      <Project Name="quiting_functions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -110,6 +112,7 @@
       <Project Name="function_fun" ConfigName="Release"/>
       <Project Name="function_string" ConfigName="Release"/>
       <Project Name="function_with_string_continue" ConfigName="Release"/>
+      <Project Name="quiting_functions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

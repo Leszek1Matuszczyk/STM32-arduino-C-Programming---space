@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ function_with_string_continue - Debug ]----------"
-	@cd "function_with_string_continue" && "$(MAKE)" -f  "function_with_string_continue.mk"
+	@echo "----------Building project:[ quiting_functions - Debug ]----------"
+	@cd "quiting_functions" && "$(MAKE)" -f  "quiting_functions.mk"
 clean:
-	@echo "----------Cleaning project:[ function_with_string_continue - Debug ]----------"
-	@cd "function_with_string_continue" && "$(MAKE)" -f  "function_with_string_continue.mk" clean
+	@echo "----------Cleaning project:[ quiting_functions - Debug ]----------"
+	@cd "quiting_functions" && "$(MAKE)" -f  "quiting_functions.mk" clean
