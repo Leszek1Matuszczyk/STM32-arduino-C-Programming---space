@@ -34,7 +34,10 @@
   <Project Name="function_fun" Path="function_fun/function_fun.project" Active="No"/>
   <Project Name="function_string" Path="function_string/function_string.project" Active="No"/>
   <Project Name="function_with_string_continue" Path="function_with_string_continue/function_with_string_continue.project" Active="No"/>
-  <Project Name="quiting_functions" Path="quiting_functions/quiting_functions.project" Active="Yes"/>
+  <Project Name="quiting_functions" Path="quiting_functions/quiting_functions.project" Active="No"/>
+  <Project Name="Function_and_return_value" Path="Function_and_return_value/Function_and_return_value.project" Active="No"/>
+  <Project Name="stm32Training" Path="stm32Training/stm32Training.project" Active="Yes"/>
+  <Project Name="stm32Training" Path="stm32Training/stm32Training.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -74,6 +77,9 @@
       <Project Name="function_string" ConfigName="Debug"/>
       <Project Name="function_with_string_continue" ConfigName="Debug"/>
       <Project Name="quiting_functions" ConfigName="Debug"/>
+      <Project Name="Function_and_return_value" ConfigName="Debug"/>
+      <Project Name="stm32Training" ConfigName="Debug"/>
+      <Project Name="stm32Training" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -113,6 +119,9 @@
       <Project Name="function_string" ConfigName="Release"/>
       <Project Name="function_with_string_continue" ConfigName="Release"/>
       <Project Name="quiting_functions" ConfigName="Release"/>
+      <Project Name="Function_and_return_value" ConfigName="Release"/>
+      <Project Name="stm32Training" ConfigName="Release"/>
+      <Project Name="stm32Training" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
