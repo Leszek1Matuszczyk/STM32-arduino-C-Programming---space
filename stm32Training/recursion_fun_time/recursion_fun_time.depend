@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731674137 source:c:\users\admin\desktop\stm32training\stm32training\recursion_fun_time\main.c
+	<stdio.h>
+	<stdlib.h>
+
