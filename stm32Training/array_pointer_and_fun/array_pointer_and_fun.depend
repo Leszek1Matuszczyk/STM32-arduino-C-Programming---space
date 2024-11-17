@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731840422 source:c:\users\admin\desktop\stm32training\stm32training\array_pointer_and_fun\main.c
+	<stdio.h>
+	<stdlib.h>
+
