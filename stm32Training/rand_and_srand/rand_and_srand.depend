@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731863992 source:c:\users\admin\desktop\stm32training\stm32training\rand_and_srand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
