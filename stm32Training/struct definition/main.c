@@ -12,7 +12,7 @@ struct transaction
 void account(struct transaction trans)
 {
 
-    printf("Dollar  : %5.5df\n",trans.amount);
+    printf("Dollar  : %5.5lf\n",trans.amount);
     printf("Day     : %d\n",trans.day);
     printf("Month   : %d\n",trans.month);
     printf("Year    : %d\n",trans.year);
@@ -22,7 +22,7 @@ struct transaction Billing[50];
 int main()
 {
     double saldo =0;
-    for(int i =0; i<50;i++)
+    for(int i =0; i<5;i++)
     {
         printf("%d transaction\n",i+1);
         printf("give Amount : ");
@@ -34,6 +34,12 @@ int main()
         printf("give Year : ");
         scanf("%d",&Billing[i].year);
         printf("Saldo : %lf\n",saldo += Billing[i].amount);
+    }
+    double saldo2;
+
+    for(int i =0;i<5;i++)
+    {
+        account(Billing[i]);
     }
 
 }
